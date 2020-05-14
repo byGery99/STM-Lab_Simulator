@@ -198,3 +198,4 @@ Drawing(DRAWINGCNT).component(accComp).fnc=Drawing(1).function(1).fnc;
 Drawing(DRAWINGCNT).component(accComp).data=[5*(i-1)+0,-20,0.5];
 
 end
+
